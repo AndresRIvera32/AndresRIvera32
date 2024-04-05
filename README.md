@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndresRIvera32](https://github.com/AndresRIvera32)
 
-- 💬 Ask me about **Software Design, Architectural Patterns, Software Development Patterns, AWS Architecture, Shell Scripting, Java, SQL, Python**
+- 💬 Ask me about **Software Design, Software Architectural Patterns, Software Development Patterns, AWS Architecture, Shell Scripting, Java, SQL, Python**
 
 - 📫 How to reach me **andres.rivera32@outlook.com**
 
